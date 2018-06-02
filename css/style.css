@@ -1,0 +1,19 @@
+
+.form-control {
+    padding: 5px 5px;
+    border: 1px solid #8B8270;
+}
+
+form input {
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 15px;
+    outline: none;
+    border: none;
+    padding: 0;
+}
+
+select {
+    outline: none;
+    background-color: #CCCCCC;
+}
